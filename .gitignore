@@ -292,7 +292,7 @@ __pycache__/
 \# file types<br>
 *.cache<br>
 *.dtbcache.v2<br>
-*.dll<br>
+*.dll
 *.pdb<br>
 *.suo<br>
 .suo<br>

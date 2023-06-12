@@ -157,6 +157,10 @@
     <Compile Include="Migrations\20230610035444_Initial.designer.cs">
       <DependentUpon>20230610035444_Initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20230612025742_create_view.cs" />
+    <Compile Include="Migrations\20230612025742_create_view.designer.cs">
+      <DependentUpon>20230612025742_create_view.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\SistemaContextModelSnapshot.cs" />
     <Compile Include="Repository\Repository.cs" />
     <Compile Include="Repository\UsuarioRepository.cs" />
