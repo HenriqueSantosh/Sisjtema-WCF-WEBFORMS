@@ -20,7 +20,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{FDCE
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SIte", "SIte", "{94C7095B-6238-4D2C-BC83-945A87B4EC35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Web", "..\Sistema.Web\Sistema.Web\Sistema.Web.csproj", "{CF270D9F-CA51-4D6F-A77B-9DBABC404A87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Web", "..\..\..\TesteGTi\Sistema.Web\Sistema.Web\Sistema.Web.csproj", "{CF270D9F-CA51-4D6F-A77B-9DBABC404A87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
